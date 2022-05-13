@@ -1,0 +1,17 @@
+.header{
+    display: flex;
+ background-color: rebeccapurple;
+ width: 100%;
+ height: 3em;
+}
+.navegation{
+display: block;
+
+font-style: italic;
+ font-size: medium;
+ width: inherit;
+ height: inherit;
+}
+secction{
+
+}
