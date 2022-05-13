@@ -12,6 +12,9 @@ font-style: italic;
  width: inherit;
  height: inherit;
 }
-secction{
+.welcome{
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
 
 }
